@@ -14,6 +14,12 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <scm>
+     <developerConnection>scm:git:https://github.com/Alex-Zaharow/javaApp02.git</developerConnection>
+     <url>https://github.com/Alex-Zaharow/javaApp02.git</url>
+    <tag>javaApp01-0.0.4</tag>
+  </scm>
+
   <distributionManagement>
     <repository>
         <id>archiva.internal</id>
