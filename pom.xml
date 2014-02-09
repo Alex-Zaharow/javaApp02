@@ -6,6 +6,16 @@
   <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
+  <description>description</description>
+  <organization>
+    <name>organization name</name>
+    <url>http://organization.url</url>
+  </organization>
+  <issueManagement>
+    <system>bugzilla</system>
+    <url>http://yandeex.ru</url>
+  </issueManagement>
+  
   <name>javaApp02</name>
   <url>http://maven.apache.org</url>
 
